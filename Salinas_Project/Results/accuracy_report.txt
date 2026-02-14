@@ -1,0 +1,7 @@
+Classification Report
+
+Selected Bands:
+[11, 191, 56, 101, 45, 76, 50, 28, 166, 83, 128, 72, 37, 20, 5, 96, 207, 82, 63, 61]
+
+SVM Accuracy: 0.9154242907652392
+RF Accuracy: 0.9493432413371453
